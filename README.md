@@ -57,7 +57,7 @@ bankbot-framework/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/hemakakarlapudi12345/bankbot-framework.git
+git clone https://github.com/Thanmaibobbala/HCL-project-3
 cd bankbot-framework
 ```
 
