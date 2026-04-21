@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import base.BaseTest;
 import pages.LoginPage;
 import pages.FundTransferPage;
-
 public class FundTransferTest extends BaseTest {
 
     @Test
