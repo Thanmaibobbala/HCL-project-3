@@ -9,7 +9,6 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 import utils.ConfigReader;
-
 import java.time.Duration;
 
 public class BaseTest {
