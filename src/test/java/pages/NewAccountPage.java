@@ -4,7 +4,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 import base.BasePage;
-
 public class NewAccountPage extends BasePage {
 
     public NewAccountPage(WebDriver driver) {
