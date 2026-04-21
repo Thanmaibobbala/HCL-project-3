@@ -49,7 +49,7 @@
     <build>
         <plugins>
 
-            <!-- Maven Surefire Plugin to run TestNG -->
+            <!-- Maven Surefire Plugin run TestNG -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
