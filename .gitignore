@@ -1,6 +1,7 @@
 # Maven
 /target/
 
+
 # Logs
 *.log
 
