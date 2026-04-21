@@ -12,5 +12,4 @@
             <class name="tests.FundTransferTest"/>
         </classes>
     </test>
-
 </suite>
