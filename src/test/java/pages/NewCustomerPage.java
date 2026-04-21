@@ -4,7 +4,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 import base.BasePage;
-
 public class NewCustomerPage extends BasePage {
 
     public NewCustomerPage(WebDriver driver) {
